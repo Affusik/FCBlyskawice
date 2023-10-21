@@ -1,0 +1,147 @@
+body {
+    background-color:#fefff2;
+}
+
+#info {
+    position: absolute;
+}
+
+#napis {
+    position: absolute;
+    
+}
+
+#Błyskawice {
+    font-size: 48px;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    margin-left: 315px;
+    margin-top: 25px;
+    position: absolute;
+    background-color: #ffffff00;
+    border-color: #ffffff00;;
+    cursor: pointer;
+}
+
+#logoblyskawic {
+    margin-left: 170px;
+    margin-top: 10px;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+}
+
+#tab {
+    float: left;
+    width: 1485px;
+    height: 150px;
+    background-color: #fff8d9;
+    margin-top: 0px;
+}
+
+#Nawigacja {
+    background-color:#ffffff00;
+    font-size: 25px;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    border:#ffffff00;
+    cursor:pointer;
+}
+
+#Nawigacjadiv {
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 50px;
+}
+
+#Aktualnyskład {
+    margin-left: 450px;
+    margin-top: 150px;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    position: absolute;
+}
+
+#skład {
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+#ttlogo {
+    width: 120px;
+    height: 120px;
+    margin-top: 50px;
+}
+
+#ttb {
+    margin-left: 500px;
+    margin-top: 5px;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    position: absolute;
+}
+
+#tiktok {
+    font-size: 30px;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    margin-left: 10px;
+    margin-top: 80px;
+    position: absolute;
+    background-color: #ffffff00;
+    border-color: #ffffff00;;
+    cursor: pointer;
+}
+
+#logowspc {
+    width: 120px;
+    height: 120px;
+    margin-left: 490px;
+    margin-top: 50px;
+}
+
+#logowspb {
+    width: 120px;
+    height: 120px;
+    margin-left: 240px;
+}
+
+#reka {
+    font-size:50px;
+    margin-left: 700px;
+    margin-top: -100px;
+    position: absolute;
+}
+
+#osttra {
+    margin-left: 525px;
+    margin-top: 150px;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+    position: absolute;
+}
+
+#ka {
+    width: 120px;
+    height: 120px;
+    margin-left: 320px;
+    margin-top: 50px;
+}
+
+#bl {
+    width: 120px;
+    height: 120px;
+    margin-left: 520px;
+}
+
+#data {
+    font-size:30px;
+    margin-left: 570px;
+    margin-top: 20px;
+    position: absolute;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+}
+
+#jakimecz {
+    font-size:40px;
+    margin-left: 460px;
+    margin-top: -100px;
+    position: absolute;
+    font-family: Arial Black,Arial Black,Gadget,sans-serif;
+}
